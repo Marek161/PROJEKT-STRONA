@@ -1,2 +1,1 @@
-# PROJEKT-STRONA
-WARSZTAT PROJEKTOWY WEBSITE
+"# decentralized-app" 
